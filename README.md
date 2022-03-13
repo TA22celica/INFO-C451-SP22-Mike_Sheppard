@@ -1,6 +1,5 @@
 # INFO-C451-System_Implementation
  
-## INFO and features:
 This is an ecommerce website - IU Guitar Shop - and the primary goal is to add customer feedback/survey functionality. In this first pass, the customer feedback has been implemented on each of the product pages as stars and comments. This is placed into the mysql database and displayed for customers and admins to see.
 
 ## Getting Started:
