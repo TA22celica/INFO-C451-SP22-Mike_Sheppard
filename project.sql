@@ -131,7 +131,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`username`, `password`, `fullname`, `address`, `date`, `autologin`, `role`) VALUES
-('mikesheppard2@gmail.com', 'Nurotekk123!', 'Mike Sheppard', '123 Piper Ln. Eugene, OR. 97401', '2022-03-01 22:16:05', NULL, 2);
+('iuGuy@iu.edu', 'password', 'Mike Sheppard', '123 Elm Ln. Salem, OR. 97555', '2022-03-01 22:16:05', NULL, 2);
 
 --
 -- Indexes for dumped tables

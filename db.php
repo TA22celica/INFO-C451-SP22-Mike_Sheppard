@@ -1,8 +1,8 @@
 <?php
 
 $dsn = 'mysql:host=localhost;dbname=test;charset=utf8mb4';
-$user = 'ecommerceUser' ;
-$pass = 'Nurotekk123!' ;
+$user = 'iuGuy@iu.edu' ;
+$pass = 'password' ;
 
 // Connect to DB
 try {
